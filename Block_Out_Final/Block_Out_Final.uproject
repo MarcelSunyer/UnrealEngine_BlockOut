@@ -16,7 +16,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ApexDestruction",
+			"Name": "Fracture",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosFlesh",
 			"Enabled": true
 		}
 	]
